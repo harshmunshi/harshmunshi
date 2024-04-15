@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @harshmunshi
 - 👀 I’m interested in Computer Vision, Machine Leearning and Data Science
-- 🌱 I’m currently learning C++ and AWS Stack
+- 🚀 Getting started for the GenAI journey!
+- 😵‍💫 Working on Synthetic media!
+- 🌱 I’m currently learning Rust and AWS Stack
 
 <!---
 harshmunshi/harshmunshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
